@@ -18,6 +18,7 @@ I picked a screen last, because it would be the most expensive thing on the list
 
 ## Design Files
 ### 3D Model
+(.STEP file is STILL at "3d Model/Joy_Controller.step")
 This is the finsihed Model of the entire Device. Only the key caps are missing but it'd make no real difference to add them in here anyway. See how the Controller still looks retro style while having plenty of functionality? I also lerned from previous designe flaws. that the hole for the usb c port must be big enough.
 <img width="1478" height="867" alt="Full Model Picture" src="https://github.com/user-attachments/assets/81716264-8ed9-4065-bf33-c171aa844185" />
 
